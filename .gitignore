@@ -10,7 +10,6 @@ fastapi-env/
 conda-env/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -39,3 +38,7 @@ Thumbs.db
 # Hugging Face
 .huggingface/
 .token
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
